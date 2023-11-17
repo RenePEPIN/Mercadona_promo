@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "axios": "^1.5.1",
+        "flatted": "^3.2.9",
+        "react-bootstrap": "^2.9.0"
+    },
+    "devDependencies": {
+        "postcss": "^8.4.31"
+    }
+}
